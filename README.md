@@ -2,9 +2,6 @@
 AI-powered BI assistant using Python, Streamlit, LangChain, and RAG to answer natural-language business questions and generate data insights, reports, and visualizations.
 
 
-
-# InsightForge — AI-Powered BI Assistant
-
 ## Overview
 InsightForge is a Python-based business intelligence application
 that allows users to upload CSV datasets, inspect data quality,
