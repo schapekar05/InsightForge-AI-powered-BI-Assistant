@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+fpdf
+
+langchain
+langchain-openai
+langchain-community
+
+openai
+faiss-cpu
+pypdf
+python-dotenv
+wikipedia
+tiktoken
