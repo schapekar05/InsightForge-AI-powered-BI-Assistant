@@ -24,7 +24,7 @@ Python, Streamlit, Pandas, Matplotlib
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Start the app:
-   `streamlit run app.py`
+   `Insightforge.py`
 
 ## Project Status
 Starter implementation. LangChain, retrieval-augmented generation
