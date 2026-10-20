@@ -1,5 +1,5 @@
 # ============================================================
-# INSIGHTFORGE AI - ADVANCED BUSINESS INTELLIGENCE DASHBOARD
+# INSIGHTFORGE AI - ADVANCED BUSINESS INTELLIGENCE DASHBOARD Part-2
 # ============================================================
 
 # ============================================================
